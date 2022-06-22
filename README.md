@@ -41,10 +41,6 @@ void loop()
 <img align="left" src='https://user-images.githubusercontent.com/96712493/175056651-5957f4a3-9d76-4b42-8eaf-d3e626c0b788.png' alt='github' height='200px' />
 <img align="right" src='https://user-images.githubusercontent.com/96712493/175056783-ba8ff22b-683d-4c6d-bed4-1609d281439f.png' alt='github' height='200px' />
 
-## ___
-## ___
-## ___
-## ___
 
 ## Badges
 
